@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\howard\圖學\hw1_release\glsl_example\main.cpp(1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 巨集重複定義
+  d:\howard\圖學\hw1_release\glsl_example\main.cpp: note: 請參閱 '_CRT_SECURE_NO_WARNINGS' 之前的定義
+  GLSL_example.vcxproj -> D:\Howard\圖學\hw1_release\Debug\GLSL_example.exe

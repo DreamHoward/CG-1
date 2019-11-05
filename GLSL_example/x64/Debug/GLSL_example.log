@@ -1,0 +1,34 @@
+﻿main.obj : error LNK2019: 無法解析的外部符號 __imp_glewInit 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 glutInit 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 glutInitDisplayMode 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 glutMainLoop 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 glutCreateWindow 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 glutPostRedisplay 在函式 "void __cdecl idle(void)" (?idle@@YAXXZ) 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 glutSwapBuffers 在函式 "void __cdecl display(void)" (?display@@YAXXZ) 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 glutReshapeWindow 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 glutDisplayFunc 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 glutReshapeFunc 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 glutKeyboardFunc 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 glutIdleFunc 在函式 main 中被參考
+main.obj : error LNK2001: 無法解析的外部符號 __imp___glewBindBuffer
+main.obj : error LNK2001: 無法解析的外部符號 __imp___glewBufferData
+main.obj : error LNK2001: 無法解析的外部符號 __imp___glewGenBuffers
+main.obj : error LNK2001: 無法解析的外部符號 __imp___glewAttachShader
+main.obj : error LNK2001: 無法解析的外部符號 __imp___glewCompileShader
+main.obj : error LNK2001: 無法解析的外部符號 __imp___glewCreateProgram
+main.obj : error LNK2001: 無法解析的外部符號 __imp___glewCreateShader
+main.obj : error LNK2001: 無法解析的外部符號 __imp___glewDeleteProgram
+main.obj : error LNK2001: 無法解析的外部符號 __imp___glewDeleteShader
+main.obj : error LNK2001: 無法解析的外部符號 __imp___glewDetachShader
+main.obj : error LNK2001: 無法解析的外部符號 __imp___glewEnableVertexAttribArray
+main.obj : error LNK2001: 無法解析的外部符號 __imp___glewGetProgramInfoLog
+main.obj : error LNK2001: 無法解析的外部符號 __imp___glewGetProgramiv
+main.obj : error LNK2001: 無法解析的外部符號 __imp___glewGetShaderInfoLog
+main.obj : error LNK2001: 無法解析的外部符號 __imp___glewGetShaderiv
+main.obj : error LNK2001: 無法解析的外部符號 __imp___glewLinkProgram
+main.obj : error LNK2001: 無法解析的外部符號 __imp___glewShaderSource
+main.obj : error LNK2001: 無法解析的外部符號 __imp___glewUseProgram
+main.obj : error LNK2001: 無法解析的外部符號 __imp___glewVertexAttribPointer
+..\GL\glut32.lib : warning LNK4272: 程式庫電腦類型 'x86' 與目標電腦類型 'x64' 發生衝突
+..\GL\glew32.lib : warning LNK4272: 程式庫電腦類型 'x86' 與目標電腦類型 'x64' 發生衝突
+D:\Howard\圖學\hw1_release\x64\Debug\GLSL_example.exe : fatal error LNK1120: 31 個無法解析的外部符號
